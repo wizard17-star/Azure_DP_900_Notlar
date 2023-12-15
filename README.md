@@ -1,4 +1,4 @@
-# DP-900-Notlar
+# Azure DP 900 Notları
 ## Azure Data Fundamentals: Explore core data concepts
 - Type: structured, semi-structured, or unstructured.
 - Data stores : File stores ,Databases
